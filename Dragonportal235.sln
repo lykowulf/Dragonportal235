@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragonportal235", "Dragonportal235.csproj", "{9DECFF19-2204-41C1-A38F-FC8B923BC152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DECFF19-2204-41C1-A38F-FC8B923BC152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DECFF19-2204-41C1-A38F-FC8B923BC152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DECFF19-2204-41C1-A38F-FC8B923BC152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DECFF19-2204-41C1-A38F-FC8B923BC152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC45EAE0-EE00-4808-85BC-AF7B2FEBBD95}
+	EndGlobalSection
+EndGlobal

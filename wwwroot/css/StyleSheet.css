@@ -1,0 +1,31 @@
+﻿.content {
+    width: 50%;
+    flex-grow: 8;
+    margin-top: 180px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.btn-light {
+    border-color: transparent;
+}
+
+.apexcharts-canvas {
+    margin: 0 auto;
+}
+.modalButtons {
+    color: #1b03a3 !important;
+}
+
+.background {
+    background-image: linear-gradient(teal, lightblue, azure, teal) !important;
+}
+.navtextcolor{
+    color:aliceblue;
+}
+.housecreate {
+   align-content:center !important;
+}
+.householdsjumbo {
+    background-image: linear-gradient(teal, lightblue, azure, teal) !important;
+}
